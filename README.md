@@ -1,1 +1,1 @@
-# graphs-water-dashboard-nsw
+# diagrams-water-dashboard-nsw
